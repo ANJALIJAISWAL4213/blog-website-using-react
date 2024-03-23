@@ -1,9 +1,11 @@
 # Complete-React-Blog Website
+<br>
+A blog website bulit on react
 
-A blog website bulit on reacT
 
-
-
+<br>
 TO RUN
-npm install 
+<br>
+npm install
+<br>
 npm start
